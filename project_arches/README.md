@@ -1,11 +1,16 @@
 # project_arches
 
-Electrical project: project_arches
+Zion_Fpga project: project_arches
 
-## Project Structure
+## Setup
 
-- `schematics/` - Circuit schematics
-- `pcb/` - PCB design files
-- `bom/` - Bill of Materials
-- `gerbers/` - Manufacturing files
-- `datasheets/` - Component datasheets
+1. Install FPGA tools
+2. Run simulations
+3. Synthesize design
+
+## Building
+
+```bash
+make sim
+make synth
+```
