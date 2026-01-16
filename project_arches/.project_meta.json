@@ -1,8 +1,8 @@
 {
   "name": "project_arches",
   "clean_name": "project_arches",
-  "type": "electrical",
-  "description": "Electrical project: project_arches",
-  "created_at": "2026-01-16T13:26:46.945960",
+  "type": "energy_power_experts",
+  "description": "Energy_Power_Experts project: project_arches",
+  "created_at": "2026-01-16T14:15:33.212283",
   "workspace": "/home/sandesh/agent_workspaces/workspace/arkham_technology/project_arches"
 }
