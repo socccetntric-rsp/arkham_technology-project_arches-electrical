@@ -1,15 +1,21 @@
 # project_arches
 
-Arches_App project: project_arches
-
-## Setup
-
-1. Build the application
-2. Run tests
-3. Deploy
+Rust project: project_arches
 
 ## Building
 
 ```bash
-make all
+cargo build
+```
+
+## Running
+
+```bash
+cargo run
+```
+
+## Testing
+
+```bash
+cargo test
 ```

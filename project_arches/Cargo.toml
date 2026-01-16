@@ -1,0 +1,9 @@
+[package]
+name = "project_arches"
+version = "0.1.0"
+edition = "2021"
+description = "Rust project: project_arches"
+
+[dependencies]
+
+[dev-dependencies]

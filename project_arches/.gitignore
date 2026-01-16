@@ -1,7 +1,6 @@
-# Build artifacts
-build/
-*.o
-*.out
+# Rust
+/target/
+Cargo.lock
 
 # IDE
 .idea/
