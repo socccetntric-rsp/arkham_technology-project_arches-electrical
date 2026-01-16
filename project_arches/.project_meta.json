@@ -1,8 +1,8 @@
 {
   "name": "project_arches",
   "clean_name": "project_arches",
-  "type": "arches_linux",
-  "description": "Arches_Linux project: project_arches",
-  "created_at": "2026-01-16T12:10:32.452202",
+  "type": "arches_app",
+  "description": "Arches_App project: project_arches",
+  "created_at": "2026-01-16T12:11:17.075954",
   "workspace": "/home/sandesh/agent_workspaces/workspace/arkham_technology/project_arches"
 }
