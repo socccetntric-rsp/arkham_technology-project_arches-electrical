@@ -1,15 +1,11 @@
 # project_arches
 
-Arches_App project: project_arches
+Mechanical project: project_arches
 
-## Setup
+## Project Structure
 
-1. Build the application
-2. Run tests
-3. Deploy
-
-## Building
-
-```bash
-make all
-```
+- `cad/` - CAD models and assemblies
+- `drawings/` - 2D drawings for manufacturing
+- `bom/` - Bill of Materials
+- `analysis/` - FEA and simulation results
+- `manufacturing/` - Manufacturing files (G-code, etc.)

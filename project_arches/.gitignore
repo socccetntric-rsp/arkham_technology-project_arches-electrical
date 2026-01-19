@@ -1,7 +1,7 @@
-# Build artifacts
-build/
-*.o
-*.out
+# CAD
+*.bak
+*.tmp
+*.log
 
 # IDE
 .idea/
